@@ -2,7 +2,7 @@
 
 This tutorial briefly covers creating new SSL certificates for your panel and wings.
 
-:::: tabs
+:::: tabsr
 ::: tab "Method 1: Certbot"
 To begin, we will install certbot, a simple script that automatically renews our certificates and allows much
 easier creation of them. The command below is for Ubuntu distributions, but you can always check [Certbot's official
